@@ -22,7 +22,7 @@
 ---
 ## Mission Statement
 
-To empower seamless healthcare interoperability through an open, community-driven integration engine that is accessible, extensible, and standards-based.
+To empower seamless healthcare interoperability through an open, community-driven integration engine that is accessible, extensible, and standards-based..
 
 ---
 
